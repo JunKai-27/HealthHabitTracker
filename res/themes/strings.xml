@@ -1,0 +1,18 @@
+<resources>
+    //SettingFragment.kt
+    <string name="skip_welcome_screen">Skip welcome screen</string>
+    <string name="show_welcome_again">Show Welcome Screen Again</string>
+    <string name="welcome_reset_message">Welcome screen will show on next launch</string>
+    //Fragment_add_edit
+    <string name="hint_habit_activity_name">Habit / Activity name</string>
+    <string name="hint_category">Category</string>
+    <string name="hint_date_time">Date and Time</string>
+    <string name="hint_rating">Rating (1–5)</string>
+    <string name="hint_notes">Notes (optional)</string>
+
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_save">Save</string>
+    //Fragment_home
+    <string name="cd_add_habit">Add new habit</string>
+
+</resources>
